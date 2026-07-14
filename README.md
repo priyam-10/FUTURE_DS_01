@@ -341,19 +341,23 @@ Analyze business sales data to identify revenue trends, regional performance, ca
 
 ## 👨‍💻 Author
 
+<div align="center">
+
 **Priyam Singh**
+*Data Science & Analytics Intern @ Future Intern*
 
-Data Science & Analytics Intern
-Future Interns Internship Program
+[![Email](https://img.shields.io/badge/Email-priyamsingh0017%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:priyamsingh0017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyamsingh10-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyamsingh10/)
+[![GitHub](https://img.shields.io/badge/GitHub-priyam--10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyam-10)
 
-GitHub: https://github.com/priyam-10
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this project useful, please give it a star!
+### ⭐ If you found this project useful, consider giving it a star!
 
-Built with ❤️ using Python, Pandas, Matplotlib & Seaborn
+**Built with ❤️ using Python, Pandas, NumPy, Matplotlib & Seaborn**
 
 </div>
